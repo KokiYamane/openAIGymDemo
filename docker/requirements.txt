@@ -1,0 +1,9 @@
+autopep8
+numpy
+matplotlib
+seaborn
+pandas
+scikit-learn
+torch
+wandb
+gym
